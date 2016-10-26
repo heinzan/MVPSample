@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVP Sample</string>
+    <string name="register">Register</string>
+    <string name="username">Enter Username</string>
+    <string name="password1">Enter Password</string>
+    <string name="password2">Confirm Password</string>
+
+    <string name="invalid">Passwrod Do Not Match</string>
+    <string name="Fail">Register Fail</string>
+
+
+
+</resources>
